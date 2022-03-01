@@ -163,3 +163,21 @@ function machConverter(value) {
   inputKPH.value = (value * 1225.044).toFixed(0); // KPH=Mach*1225.044
   inputKnots.value = (value * 661.4708).toFixed(0); // knots=Mach*661.4708
 }
+
+// loader
+$(window).on("load", () => {
+  $("body").css(
+    "overflow",
+    "hidden",
+    setTimeout(() => {
+      $("body").css("overflow-y", "visible");
+    }, 1800)
+  );
+  setTimeout(removeLoader, 1700);
+});
+
+function removeLoader() {
+  $("#loadingDiv").fadeOut(500, () => {
+    $("#loadingDiv").remove();
+  });
+}
