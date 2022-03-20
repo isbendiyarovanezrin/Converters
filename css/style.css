@@ -1,5 +1,5 @@
 body {
-  padding: 3rem 1rem;
+  padding: 2rem 1rem;
   overflow-x: hidden;
   background: center/cover url(../img/bg.png);
   font: 700 1.2rem "Jura", sans-serif;
@@ -12,6 +12,7 @@ body {
 
 .converter {
   background-color: #999999de;
+  margin-bottom: 2rem;
   padding: 1.3rem 2rem 2rem;
   border: 0.1rem solid #808080;
 }
@@ -28,6 +29,16 @@ input {
 
 input:focus {
   background-color: #f1f1f1;
+}
+
+footer {
+  background-color: #999999de;
+  border: 0.1rem solid #808080;
+}
+
+.footer-link:hover {
+  transition: 0.3s ease;
+  color: #cdd4df;
 }
 
 #loadingDiv {
