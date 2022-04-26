@@ -4,7 +4,7 @@
 
 # About
 
-"Converters" project built with HTML5, CSS3 and vanilla JavaScript. You can view the project [**here**](https://isbendiyarovanezrin.github.io/Converters "Click me!^_^").
+"Converters" project built with HTML5, CSS3, jQuery and vanilla JavaScript. You can view the project [**here**](https://isbendiyarovanezrin.github.io/Converters "Click me!^_^").
 
 # Contributing
 
