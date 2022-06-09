@@ -4,7 +4,7 @@
 
 # About
 
-"Converters" project built with HTML5, CSS3, jQuery and vanilla JavaScript. You can view the project [**here**](https://isbendiyarovanezrin.github.io/Converters "Click me!^_^"). I was inspired by [this](https://www.w3schools.com/howto/howto_js_weight_converter.asp) site.
+"Converters" project built with HTML5, CSS3, jQuery and vanilla JavaScript. You can view the project [**here**](https://isbendiyarovanezrin.github.io/Converters "Click me! ^_^"). I was inspired by [**this**](https://www.w3schools.com/howto/howto_js_weight_converter.asp) site.
 
 # Contributing
 
